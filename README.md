@@ -1,19 +1,17 @@
-# AI/ML Internship 
+# AI/ML Internship - Evolvix
 
-## Description
+This repository documents my progress during the AI/ML Internship at Evolvix. It includes weekly tasks, model evaluations, and project implementations.
 
-This repository documents my progress during the AI/ML internship, specifically Task O2. It includes weekly tasks, project details, and the tech stack used.
-
-## Tasks
+## 📊 Completed Tasks & Roadmap
 
 | Task | Description | Status |
-|---|---|---|
-| **Orientation** | O1 & O2 (LinkedIn & GitHub Profile Setup) | [View Task](./Orientation) | ✅ Completed |
-| **Week 1** | Task 1: [Task Name] | [View Folder](./Week-01) | ⏳ Pending |
-| **Week 2** | Task 2: [Task Name] | [View Folder](./Week-02) | ⏳ Pending |
-| **Week 3** | Task 3: [Task Name] | [View Folder](./Week-03) | ⏳ Pending |
-| **Week 4** | Task 4: [Task Name] | [View Folder](./Week-04) | ⏳ Pending |
-| **Week 5–6** | Capstone Project | [View Project](./Capstone) | ⏳ Pending |
+| :--- | :--- | :--- |
+| **Orientation** | O1 & O2 (LinkedIn & GitHub Profile Setup) | ✅ Completed |
+| **Week 1** | Fundamentals & Data Preprocessing | ✅ Completed |
+| **Week 2** | Task 1: Model Evaluation & Comparison | [View Task](./Week_2_Task_1.ipynb) |
+| **Week 3** | Task 3: [Upcoming Task] | ⏳ Pending |
+| **Week 4** | Task 4: [Upcoming Task] | ⏳ Pending |
+| **Week 5–6** | Capstone Project | ⏳ Pending |
 
 ---
 
