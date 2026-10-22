@@ -29,3 +29,9 @@ This repository documents my progress during the AI/ML Internship at Evolvix. It
 *AI/ML Intern @ Evolvix*  
 - **GitHub:** [@muazzamasim04-ops](https://github.com/muazzamasim04-ops)  
 - **LinkedIn:** [Muazzam Asim](https://linkedin.com)
+
+---
+
+## 🚀 Capstone Project Live App
+
+👉 [Real Estate Valuation System Live App](https://professional-house-price-prediction-2krywfqyuxxgqczv66vfv8.streamlit.app/)
