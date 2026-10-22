@@ -8,10 +8,10 @@ This repository documents my progress during the AI/ML Internship at Evolvix. It
 | :--- | :--- | :--- |
 | **Orientation** | O1 & O2 (LinkedIn & GitHub Profile Setup) | ✅ Completed |
 | **Week 1** | Fundamentals & Data Preprocessing | ✅ Completed |
-| **Week 2** | Task 1: Model Evaluation & Comparison | [View Task](./Week_2_Task_1.ipynb) |
-| **Week 3** | Task 3: [Upcoming Task] | ⏳ Pending |
-| **Week 4** | Task 4: [Upcoming Task] | ⏳ Pending |
-| **Week 5–6** | Capstone Project | ⏳ Pending |
+| **Week 2** | Task 1: Model Evaluation & Comparison | ✅ Completed |
+| **Week 3** | Task 3: Feature Engineering & Optimization | ✅ Completed |
+| **Week 4** | Task 4: Model API & Deployment Setup | ✅ Completed |
+| **Week 5–6** | Capstone Project (End-to-End Real Estate Valuation System) | ✅ Completed |
 
 ---
 
